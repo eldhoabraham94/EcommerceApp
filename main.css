@@ -1,6 +1,7 @@
 @import "./assets/common.css";
 @import "./assets/colors.css";
 @import "./product/product.css";
+@import "./login/login.css";
 @import url("https://minnalui.netlify.app/style.css");
 @import url("https://use.fontawesome.com/releases/v5.15.4/css/all.css");
 
